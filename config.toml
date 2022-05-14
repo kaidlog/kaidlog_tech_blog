@@ -1,0 +1,34 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Kaidlog'
+theme = "charaka-hugo-theme"
+
+copyright = "&copy; <a href=\"https://github.com/kaidlog\"> Kaidlog </a> 2014 ~ 2022"
+disqusShortname = "kaidlog"
+googleAnalytics = ""
+
+
+
+[params]
+
+[params.highlight]
+  style = "zenburn"
+
+[[params.social]]
+  url = "about"
+  fa_icon = "fas fa-info" 
+
+[[params.social]]
+  url = "https://github.com/kaidlog"
+  fa_icon = "fab fa-github"
+
+[[params.social]]
+  url = "https://www.linkedin.com/in/cheng-kai-cheng-2b5138185/"
+  fa_icon = "fab fa-linkedin-in"
+
+[[params.social]]
+  url = "https://twitter.com/nicholas_cck"
+  fa_icon = "fab fa-twitter"
+[[params.social]]
+  url = "dochub"
+  fa_icon = "fab fa-dochub"
