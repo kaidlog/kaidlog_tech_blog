@@ -1,4 +1,4 @@
-baseURL = 'http://kaidlogtech.netlify.app/'
+baseURL = 'http://example.org'
 languageCode = 'en-us'
 title = 'Kaidlog'
 theme = "charaka-hugo-theme"
