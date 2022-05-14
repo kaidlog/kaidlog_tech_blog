@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://kaidlogtech.netlify.app/'
 languageCode = 'en-us'
 title = 'Kaidlog'
 theme = "charaka-hugo-theme"
@@ -8,6 +8,9 @@ disqusShortname = "kaidlog"
 googleAnalytics = ""
 
 
+[permalinks]
+  post = "/:year/:month/:slug/"
+  page = "/:slug/"
 
 [params]
 
